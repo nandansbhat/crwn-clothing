@@ -9,3 +9,7 @@ a {
   color: black;
   font-size: 22px;
 }
+
+* {
+  box-sizing: border-box;
+}
